@@ -1,6 +1,6 @@
 name: (s)ocial imagery
 favicon: null
-layout_spectrum: 0.7413464465644211
+layout_spectrum: 1
 typography_spectrum: 0.40163591247983277
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5313183767721057
+    - '#ffffff'
+    - '#020e0c'
+    - '#572212'
+    - '#c7a543'
+    - '#9e7227'
+  brandStrength: 0.5625
   lightness: 0.6484621348790824
   saturation: 0.7494150681886822
   rhythmicContrast: 0.9488728262949735
